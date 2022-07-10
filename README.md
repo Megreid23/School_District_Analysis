@@ -8,7 +8,7 @@ The purpose of this analysis is to chart the school districts' student count, ty
 * The school district's analysis had to be redone to account for the missing ninth-graders scores. In the school summary, this was done by creating conditionals to get the total amount of 10th, 11th, and 12th graders and their respective average scores and passing percentages in the math and reading categories.![THS_10_12_Scores](THS_10_12_Scores.png)
 * By removing the ninth_graders scores, the overall performance of Thomas High School improved drastically, going from approximately 60% in both areas to over 90%. ![Reading_Scores_by_Grade](Reading_Scores_by_Grade.png)
 * The first image are the results of the initial analysis before the ninth-graders are taken from the total. ![OG_DF](OG_DF.png)
-* The second is after the ninth-graders have been removed. !{Adjusted_DF](Adjusted_DF.png)
+* The second is after the ninth-graders have been removed. ![Adjusted_DF](Adjusted_DF.png)
 
 ## Summary
 * The passing percentage for each category increased greatly, from approximately 60% to in the 90%.
